@@ -1,0 +1,3 @@
+C:/Users/Domin/Desktop/SpaceCraft_Game_emscripten/buildG/CMakeFiles/SpaceCraft_Game.dir
+C:/Users/Domin/Desktop/SpaceCraft_Game_emscripten/buildG/CMakeFiles/edit_cache.dir
+C:/Users/Domin/Desktop/SpaceCraft_Game_emscripten/buildG/CMakeFiles/rebuild_cache.dir

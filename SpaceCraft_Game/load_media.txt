@@ -1,0 +1,4 @@
+1,"image","spaceship_texture",".png","space_ship_texture"
+1,"image","planet_texture",".png","planet_texture"
+1,"image","enemy_texture",".png","enemy_texutre"
+4,"image","explosion_texture_",".png","explosion_texure"

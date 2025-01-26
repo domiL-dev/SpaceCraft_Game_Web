@@ -1,0 +1,1 @@
+-I"C:/VC_lib/SDL2-2.28.5/include" -I"C:/VC_lib/SDL2_image-2.8.0/include" -I"C:/VC_lib/SDL2_ttf-2.22.0/include" -I"C:/VC_lib/eigen-3.4.0" -IC:/Users/Domin/Desktop/SpaceCraft_Game_emscripten/include
