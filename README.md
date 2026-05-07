@@ -1,5 +1,6 @@
 Click on the link to play the game. 
-After the source objects for graphics are loaded in cache you can start the game by pressing Enter
+After the source objects for graphics are loaded in cache you can start the game by pressing Enter.
+You might have to scroll down to see the whole window.
 
 https://domil-dev.github.io/SpaceCraft_Game_Web/
 
